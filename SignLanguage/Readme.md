@@ -14,13 +14,13 @@ In additional, the app is neatly and oraginizely designed so that everyone who a
 - Beginner support guide
 
 ## Usage
-For the details instruction, please visit **User Manual**.
+For the details instruction, please visit [**User Manual**](https://github.com/Edvo1901/SignLanguage/blob/main/UserManual.md).
 
 ## Acknowledgements
 SignLang is developed by Vi Dong (Edward) Vo for the purpose of Apple event (Swift Student Challenge or WWDC 22). It is not allowed to be used for the purpose selling or any other ways to earn benefit from it.
 
-If you have questions, please contact DongVo1901@gmail.com.
-For further information, please visit **License**.
+If you have questions, please contact DongVo1901@gmail.com.  
+For further information, please visit [**License**](https://github.com/Edvo1901/SignLanguage/blob/main/LICENSE).
 
 ## License
-The SignLang is released under the MIT License.
+The SignLang is released under the [MIT License](https://github.com/Edvo1901/SignLanguage/blob/main/LICENSE).
