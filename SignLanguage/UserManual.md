@@ -1,2 +1,2 @@
-#  <#Title#>
+#  SignLang User Manual
 
